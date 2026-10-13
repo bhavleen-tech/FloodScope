@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"synthetic": true}, "geometry": {"type": "Polygon", "coordinates": [[[85.299, 28.099], [85.301, 28.099], [85.301, 28.101], [85.299, 28.101], [85.299, 28.099]]]}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"place": "town", "name": "Synthetic Town"}, "geometry": {"type": "Point", "coordinates": [85.29, 28.1]}}, {"type": "Feature", "properties": {"place": "village", "name": "Synthetic Village"}, "geometry": {"type": "Point", "coordinates": [85.31, 28.1]}}]}

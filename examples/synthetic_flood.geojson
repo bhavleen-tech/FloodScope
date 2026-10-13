@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"source": "SYNTHETIC TEST DATA \u2014 NOT A REAL FLOOD"}, "geometry": {"type": "Polygon", "coordinates": [[[85.299, 28.099], [85.302, 28.099], [85.302, 28.102], [85.299, 28.102], [85.299, 28.099]]]}}]}
